@@ -54,7 +54,6 @@ cd nginx-1.25.1
 --with-http_auth_request_module \
 --with-http_geoip_module=dynamic \
 --with-http_realip_module \
---with-cpp_test_module \
 --with-debug \
 --with-stream=dynamic \
 --with-stream_ssl_module \
